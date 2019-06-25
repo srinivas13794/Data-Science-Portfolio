@@ -6,7 +6,7 @@ A comprehensive data science portfolio showcasing my exposure and skills in the 
 #### Dealing with unbalanced data through weighting and gradient boosting 
 ### New York City Taxi Fare Prediction
 #### Using Pyspark,Deep Learning and Feature engineering.
-### Airbnb Host Cost estimator.
-#### Application that helps Airbnb host to determine the best price.
+### Football player sugesstion engine
+#### Uses unsupervised learning to suggest players similar to a given player.
 
 
